@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 And again a commit changed. trying to conflict here!
+=======
+This is again a commit changed! Merge-conflict is on!
+>>>>>>> feature
 
 And here we go with commit #2!
